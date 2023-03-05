@@ -38,7 +38,7 @@ const NavBar = () => {
     <AppBar position='sticky'>
       <StyledToolbar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" }}}>
-        Goo life
+        Go Material
         </Typography>
         <LocalLibrary sx={{ display: { xs: "block", sm: "none"}}}/>
         <Search>
